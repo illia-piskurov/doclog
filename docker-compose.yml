@@ -7,6 +7,9 @@ services:
       - type: bind
         source: ./app/output
         target: /app/output
+      - type: bind
+        source: ./app/config.yml
+        target: /app/config.yml
     # for debug 
     # stdin_open: true
     # tty: true

@@ -18,6 +18,9 @@ In the `app/config.yml` file, you can configure the output delay in seconds
 delay: 1.5
 ```
 
+You can also change the delay in the configuration file
+while the program is running.
+
 ### Build && Run
 
 To build, use the command:

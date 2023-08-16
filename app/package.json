@@ -9,6 +9,7 @@
   "author": "Illia Piskurov",
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "chokidar": "^3.5.3",
     "yaml": "^2.3.1"
   }
 }
